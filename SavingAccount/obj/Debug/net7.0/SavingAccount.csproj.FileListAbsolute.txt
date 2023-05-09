@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\bin\Debug\net7.0\SavingAccount.exe
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\bin\Debug\net7.0\SavingAccount.deps.json
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\bin\Debug\net7.0\SavingAccount.runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\bin\Debug\net7.0\SavingAccount.dll
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\bin\Debug\net7.0\SavingAccount.pdb
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.dll
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\refint\SavingAccount.dll
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.pdb
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\SavingAccount.genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\SavingAccount\SavingAccount\obj\Debug\net7.0\ref\SavingAccount.dll
